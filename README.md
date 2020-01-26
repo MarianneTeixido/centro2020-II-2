@@ -1,4 +1,3 @@
-# Código Creativo 2020-2 Segundo Semestre
 
 ![portada](https://github.com/EmilioOcelotl/centro2020-II-3/blob/master/img/noche01.png)
 
